@@ -4,5 +4,5 @@ The Cathedral and the Bazaar
 catb.org
 ## Number of Pages
 16
-#Link
+## Link
 http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html
