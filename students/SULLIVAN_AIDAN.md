@@ -1,4 +1,4 @@
-# Report of My Last Cited Paper on a Report
+# Report of My Last Cited Paper on an Essay
 ## Title
 The Cathedral and the Bazaar
 ## Venue
